@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w0lfboy
 - 👀 I’m interested in cybersecurity!
-- 🌱 I’m currently learning Windows administration.
+- 🌱 I’m currently learning Cloud Engineering
 - 💞️ I’m looking to collaborate on anything cyber. 😊
 - 📖 I'm in the process of acquiring my CompTIA Security +
 - 📫 I'm open to collaboration!! Message me on LinkedIn!
